@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1717085826 source:d:\cods\rafturi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"book.h"
+
+1717085461 source:d:\cods\rafturi\baza de date.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"book.h"
+
+1717085744 d:\cods\rafturi\book.h
+
+1714495438 source:d:\cods\rafturi\sort.c
+	<stdio.h>
+	"sort.h"
+	"book.h"
+
+1714494347 d:\cods\rafturi\sort.h
+
