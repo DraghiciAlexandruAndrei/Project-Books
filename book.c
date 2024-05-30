@@ -84,7 +84,7 @@ int sumaPagini(struct book *carti, int nrCarti) {
     return total;
 }
 
-// Impartirea cartilor in functie de prag
+// Impartirea cartilor in functie de pagini
 void imparteCarti(struct book *carti, int nrCarti, int prag, int *countMaiMic, int *countMaiMare) {
     *countMaiMic = 0;
     *countMaiMare = 0;
