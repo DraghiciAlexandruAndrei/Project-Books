@@ -1,6 +1,5 @@
-# Project-Books
-Project for Algorithm Design
-Enuntul problemei
+**Enuntul problemei  **
+
 Imaginati-va un scenariu in care trei angajati primesc sarcina de a cauta informatii specifice prin rafturile pline de carti. Pentru a asigura o impartire corecta si eficienta a muncii, cartile trebuie alocate celor trei fara a fi necesar sa le misca sau sa le imparta in gramezi separate. Solutia cea mai simpla este sa impartim raftul in trei sectiuni distincte, fiecare sectiune fiind alocata unui angajat.
 Dar cum putem asigura ca impartirea este echitabila? Daca fiecare carte ar avea aceeasi dimensiune, solutia ar fi simpla: impartim raftul in sectiuni egale, astfel:
 100 100 100 – 100 100 100 – 100 100 100
